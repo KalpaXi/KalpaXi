@@ -29,8 +29,8 @@ Each handover means exporting files, rebuilding geometry and checking whether ev
 KalpaXi keeps one model as the single source of truth, so engineers, makers and small teams can go from concept to a checked, manufacturable part fast.
 
 ## How to install KalpaXi on your computer 
-Download the KalpaXi-V2.1-Setup-x64 from repository. (https://github.com/KalpaXi/Kalpaxi_V2)
-If you see some error while registration, Press the Windows key, type cmd, and open Command Prompt.
+Download the KalpaXi-V2.1-Setup-x64 from repository. (https://github.com/KalpaXi/Kalpaxi_V2). 
+If you see some error while registration, press the Windows key, type cmd, and open Command Prompt.
 Paste this and press Enter: "setx KALPAXI_REGISTRATION off"
 Close KalpaXi completely and open it again. It goes straight in without the setup window.
 
