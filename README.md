@@ -34,15 +34,15 @@ KalpaXi keeps one model as the single source of truth, so engineers, makers and 
 |---|---|---|
 | Part modelling | Parametric sketches and features (OpenCascade kernel) | ✅ Available |
 | Assembly | Parts placed with joints in Assembly Decks | ✅ Available |
-| Stress analysis | Gmsh meshing (C3D10), CalculiX solver, built-in result plots | ✅ Available |
 | Manufacturing drawing | Views, dimensions, tolerances, title block | ✅ Available  |
+| Stress analysis | Gmsh meshing, CalculiX solver, built-in result plots | ✅ Available |
 | Thermal analysis | Heat and combined thermal–stress studies | ✅ Available  |
-| Manufacturability (DFM) | Checks for machining, casting, 3D printing 🚧 and plastic molding ✅ | 🚧 In development |
 | Tolerances & fits | Process + tolerance class per part, interference and clearance at worst-case fits | ✅ Available |
+| Manufacturability (DFM) | Checks for machining, casting, 3D printing 🚧 and plastic molding ✅ | 🚧 In development |
 | Fatigue | Duty-cycle damage and life from multiple load cases | ✅ Available |
 | Vibration analysis | Harmonic, FRF, Random vibration & Fatigue | 🗓️ Planned |
 | Flow | Fluid & CFD | 🗓️ Planned |
-| AI Assistant | Use mouse movements and voice commands together to improve execution| 🗓️ Planned |
+| AI Assistant | Use mouse movements and voice commands together for 3D CAD | 🗓️ Planned |
 
 ## How it fits together
 
