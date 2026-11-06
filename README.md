@@ -42,6 +42,7 @@ KalpaXi keeps one model as the single source of truth, so engineers, makers and 
 | Fatigue | Duty-cycle damage and life from multiple load cases | ✅ Available |
 | Vibration analysis | Harmonic, FRF, Random vibration & Fatigue | 🗓️ Planned |
 | Flow | Fluid & CFD | 🗓️ Planned |
+| AI Assistant | Use mouse movements and voice commands together to improve execution| 🗓️ Planned |
 
 ## How it fits together
 
