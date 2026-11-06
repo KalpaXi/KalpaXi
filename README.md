@@ -65,8 +65,8 @@ Analysis runs locally through a small helper on your own computer. Your models s
 
 ## Get started
 
-- **Install:** download the latest bundle from the [KalpaXi releases](https://github.com/kalpaxi/kalpaxi/releases)
-- **Read:** [documentation](https://github.com/kalpaxi/kalpaxi/wiki) · [examples](https://github.com/kalpaxi/kalpaxi/tree/main/examples)
+- **Install:** download the latest bundle from the [KalpaXi releases](https://github.com/kalpaxi/kalpaxi_v2/releases)
+- **Read:** [documentation](https://github.com/KalpaXi/Kalpaxi_V2/blob/main/docs/user-guide/help.html)· [examples](https://github.com/kalpaxi/kalpaxi/tree/main/examples)
 - **Discuss:** [GitHub Discussions](https://github.com/kalpaxi/kalpaxi/discussions)
 - **Report a bug:** [open an issue](https://github.com/kalpaxi/kalpaxi/issues)
 
