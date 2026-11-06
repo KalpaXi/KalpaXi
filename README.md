@@ -28,6 +28,13 @@ Good ideas slow down between the CAD tool, the analysis tool and the drawing boa
 Each handover means exporting files, rebuilding geometry and checking whether everything still matches.
 KalpaXi keeps one model as the single source of truth, so engineers, makers and small teams can go from concept to a checked, manufacturable part fast.
 
+## How to install KalpaXi on your computer https://github.com/KalpaXi/Kalpaxi_V2/commit/37a84c75c7ebd42b8e33561d756d99c6e017be71 
+
+Download the KalpaXi-V2.1-Setup-x64 from repository.
+If you see some error while registration, Press the Windows key, type cmd, and open Command Prompt.
+Paste this and press Enter: "setx KALPAXI_REGISTRATION off"
+Close KalpaXi completely and open it again. It goes straight in without the setup window.
+
 ## Capabilities
 
 | Area | What it does | Status |
