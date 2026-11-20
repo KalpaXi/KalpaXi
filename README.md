@@ -45,10 +45,14 @@ Close KalpaXi completely and open it again. It goes straight in without the setu
 | Thermal analysis | Heat and combined thermal–stress studies | ✅ Available  |
 | Tolerances & fits | Process + tolerance class per part, interference and clearance at worst-case fits | ✅ Available |
 | Manufacturability (DFM) | Checks for machining, casting, 3D printing 🚧 and plastic molding ✅ | 🚧 In development |
-| Fatigue | Duty-cycle damage and life from multiple load cases | ✅ Available |
-| Vibration analysis | Harmonic, FRF, Random vibration & Fatigue | 🗓️ Planned |
+| Fatigue | Duty-cycle damage and life from multiple load cases ✅ Available, Harmonic & random vibration ✅ Available, Rainflow counting 🚧 In development  | ✅ Available |
+| Vibration analysis | Modal, Force excitation, Base excitation and Random vibration |  ✅ Available |
 | Flow | Fluid & CFD | 🗓️ Planned |
 | AI Assistant | Use mouse movements and voice commands together for 3D CAD | 🗓️ Planned |
+| MBD | Mechanism analysis | 🗓️ Planned |
+| Component Engineering  | Stannard parts AI assisted search for vendors and vendor communication (e.g. bearing, fastener)  | 🗓️ Planned |
+| CAD  | Gear Pair, Sheet metal and manufacturing | 🗓️ Planned |
+| Design optimization with AI Assistant | Molding, Machining, Sheet metal and Design for stresses / deformation optimization | 🗓️ Planned |
 
 ## How it fits together
 
