@@ -52,7 +52,7 @@ Close KalpaXi completely and open it again. It goes straight in without the setu
 | MBD | Mechanism analysis | 🗓️ Planned |
 | Component Engineering  | Stannard parts AI assisted search for vendors and vendor communication (e.g. bearing, fastener)  | 🗓️ Planned |
 | CAD  | Gear Pair, Sheet metal and manufacturing | 🗓️ Planned |
-| Design optimization with AI Assistant | Molding, Machining, Sheet metal and Design for stresses / deformation optimization | 🗓️ Planned |
+| Design with AI Assistant | Molding, Machining, Sheet metal and Design for stresses / deformation optimization | 🗓️ Planned |
 
 ## How it fits together
 
