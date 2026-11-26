@@ -30,9 +30,7 @@ KalpaXi keeps one model as the single source of truth, so engineers, makers and 
 
 ## How to install KalpaXi on your computer 
 Download the KalpaXi-V2.1-Setup-x64 from repository. (https://github.com/KalpaXi/Kalpaxi_V2/releases/tag/V2.6.18). 
-If you see some error while registration, press the Windows key, type cmd, and open Command Prompt.
-Paste this and press Enter: "setx KALPAXI_REGISTRATION off"
-Close KalpaXi completely and open it again. It goes straight in without the setup window.
+- **Read:** [documentation](https://github.com/KalpaXi/Kalpaxi_V2/blob/main/docs/user-guide/KalpaXi-Help.md)· [examples](https://www.youtube.com/watch?v=XIc8nycFi0Q&list=PLRJ0Gt_s52-s)
 
 ## Capabilities
 
